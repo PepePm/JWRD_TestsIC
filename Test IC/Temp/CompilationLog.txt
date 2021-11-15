@@ -1,2 +1,0 @@
-# Starting compiling PlayMode.dll
-E:\Programas\Unity\2020.3.19f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-91808e4f75c68fa4cb51b05817955c1c
