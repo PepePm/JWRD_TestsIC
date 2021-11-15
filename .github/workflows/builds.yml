@@ -9,6 +9,8 @@ jobs:
     strategy: 
       fail-fast: false 
       matrix: 
+        projectPath: 
+          - ./TestIC
         targetPlatform: 
           - StandaloneWindows # Build a Windows standalone. 
           - StandaloneWindows64 # Build a Windows 64-bit standalone. 
